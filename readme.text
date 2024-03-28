@@ -1,1 +1,8 @@
-This is
+A system designed to control a high power direct current blower.
+
+Component : 
+1: teensy 3.5 / 4.0 / 4.1
+2: Teensy Audio shild
+3: 3 pins audio aux input
+4: BTS7960 Motor Driver Module
+5: 24 V DC Power supplay.
